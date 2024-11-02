@@ -70,4 +70,4 @@ Feel free to contribute by adding new problems, solutions, or improving the cont
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
-Happy coding, and may your InterviewJutsu be strong!
+Happy coding, and may your InterviewJujutsu be strong!
