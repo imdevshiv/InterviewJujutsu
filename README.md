@@ -4,13 +4,13 @@ Welcome to **InterviewJujutsu** – master the art of coding interviews like a t
 
 ## Table of Contents
 
-1. [Overview](#overview)
-2. [Techniques Covered](#techniques-covered)
-3. [Getting Started](#getting-started)
-4. [How to Use](#how-to-use)
-5. [Resources](#resources)
-6. [Contributing](#contributing)
-7. [License](#license)
+1. [Overview](#Overview)
+2. [Techniques Covered](#Techniques-covered)
+3. [Getting Started](#Getting-started)
+4. [How to Use](#How-to-use)
+5. [Resources](#Resources)
+6. [Contributing](#Contributing)
+7. [License](#License)
 
 ---
 
